@@ -50,7 +50,7 @@ Hoje estudo **Análise e Desenvolvimento de Sistemas** e uso programação para 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
 | 🌐 **[Site F. Moraes](https://20261cas10010028-ai.github.io/Meu-Blog-/)** | Site da minha empresa, com galeria de trabalhos por categoria, foto em tela cheia e orçamento direto pelo WhatsApp | HTML · CSS · JavaScript |
-| 💰 **[Agenda Financeira](https://github.com/Moraesx3/Agenda-Financeira)** | Sistema de gestão que uso na empresa: cadastro de clientes e serviços, faturamento mensal e orçamentos em PDF · [testar online](https://moraesx3.github.io/Agenda-Financeira/) | HTML · CSS · JavaScript |
+| 💰 **[Agenda Financeira](https://moraesx3.github.io/Agenda-Finaceira/)** | Sistema de gestão que uso na empresa: cadastro de clientes e serviços, faturamento mensal e orçamentos em PDF · [testar online](https://moraesx3.github.io/Agenda-Finaceira/) | HTML · CSS · JavaScript |
 | ❄️ **Calculadora de BTU** *(em breve)* | Calcula a capacidade ideal de ar-condicionado para cada ambiente | HTML · CSS · JavaScript |
 | 📋 **Sistema de PMOC** *(em breve)* | Cadastro de aparelhos, cronograma de manutenção e relatório para clientes | |
 
