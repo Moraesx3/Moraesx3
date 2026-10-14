@@ -1,11 +1,3 @@
-<!--
-  COMO USAR
-  1. No GitHub, crie um repositório PÚBLICO com o MESMO nome do seu usuário (ex.: usuário "felipemoraes" → repositório "felipemoraes").
-  2. Marque "Add a README file", depois edite o README e cole este conteúdo.
-  3. Usuário já preenchido: Moraesx3.
-  4. Preencha os campos marcados com ✏️ e apague este comentário se quiser.
--->
-
 <h1 align="center">Olá, eu sou o Felipe Moraes 👋</h1>
 
 <p align="center">
@@ -29,7 +21,6 @@ Hoje estudo **Análise e Desenvolvimento de Sistemas** e uso programação para 
 
 - ⚡ Unindo **elétrica, climatização e software**
 - 🛠️ Construo ferramentas que uso de verdade na minha empresa
-- 🌱 Estudando agora: ✏️ *(ex.: JavaScript, Python, banco de dados)*
 - 🎯 Objetivo: criar sistemas para prestadores de serviço e automação residencial (IoT)
 
 ---
@@ -59,9 +50,9 @@ Hoje estudo **Análise e Desenvolvimento de Sistemas** e uso programação para 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
 | 🌐 **[Site F. Moraes](https://20261cas10010028-ai.github.io/Meu-Blog-/)** | Site da minha empresa, com galeria de trabalhos por categoria, foto em tela cheia e orçamento direto pelo WhatsApp | HTML · CSS · JavaScript |
-| 💰 **[Minhas Finanças](#)** ✏️ | Sistema de gestão: cadastro de clientes e serviços, faturamento mensal e geração de orçamentos em PDF | ✏️ |
+| 💰 **[Agenda Financeira](https://github.com/Moraesx3/Agenda-Financeira)** | Sistema de gestão que uso na empresa: cadastro de clientes e serviços, faturamento mensal e orçamentos em PDF · [testar online](https://moraesx3.github.io/Agenda-Financeira/) | HTML · CSS · JavaScript |
 | ❄️ **Calculadora de BTU** *(em breve)* | Calcula a capacidade ideal de ar-condicionado para cada ambiente | HTML · CSS · JavaScript |
-| 📋 **Sistema de PMOC** *(em breve)* | Cadastro de aparelhos, cronograma de manutenção e relatório para clientes | ✏️ |
+| 📋 **Sistema de PMOC** *(em breve)* | Cadastro de aparelhos, cronograma de manutenção e relatório para clientes | |
 
 ---
 
@@ -91,18 +82,3 @@ Hoje estudo **Análise e Desenvolvimento de Sistemas** e uso programação para 
 </p>
 
 <p align="center"><i>"Do quadro elétrico ao código: construo coisas que funcionam."</i></p>
-
-<!--
-**Moraesx3/Moraesx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
